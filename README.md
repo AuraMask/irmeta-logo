@@ -1,4 +1,4 @@
-# Metamask Logo
+# IrMeta Logo [![CircleCI](https://circleci.com/gh/AuraMask/irmeta-logo.svg?style=svg)](https://circleci.com/gh/AuraMask/irmeta-logo)
 
 A browserifyable 3d metamask logo. [Live demo](http://metamask.github.io/irmeta-logo/).
 
